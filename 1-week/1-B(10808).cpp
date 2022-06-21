@@ -1,29 +1,10 @@
-<!-- @format -->
+// https://www.acmicpc.net/problem/10808
 
-https://www.acmicpc.net/problem/10808
-
-입력
-
-```
-baekjoon
-```
-
-출력
-
-```
-1 1 0 0 1 0 0 0 0 1 1 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0
-```
-
-코드
-
-```c++
 #include <bits/stdc++.h>
 using namespace std;
 
 string str;
 int alphabet[26];
-
-
 
 int main() {
 
@@ -35,4 +16,4 @@ int main() {
 
 	return 0;
 }
-```
+

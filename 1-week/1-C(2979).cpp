@@ -1,25 +1,5 @@
-<!-- @format -->
+// https://www.acmicpc.net/problem/2979 
 
-https://www.acmicpc.net/problem/2979
-
-입력
-
-```
-5 3 1
-1 6
-3 5
-2 8
-```
-
-출력
-
-```
-33
-```
-
-코드
-
-```c++
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -58,4 +38,3 @@ int main() {
 
 	return 0;
 }
-```
